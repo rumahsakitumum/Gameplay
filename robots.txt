@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rumahsakitumum.github.io/Gameplay/sitemap.xml
